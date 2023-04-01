@@ -7,6 +7,9 @@
 - [ Debounce Function ](https://davidwalsh.name/javascript-debounce-function)
 
 - SASS
+---
+
+<img src="/crypto1.PNG" alt="alt text" width="500" height="400">  <img src="/crypto2.PNG" alt="alt text" width="500" height="400">
 
 ---
 # Getting Started with Create React App
