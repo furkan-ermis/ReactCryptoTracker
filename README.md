@@ -1,5 +1,5 @@
 
-### npm install --save react-router-dom axios sass zustand classnames recharts
+### `npm install --save react-router-dom axios sass zustand classnames recharts`
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation)
 
 - [zustand :state Management solution](https://github.com/pmndrs/zustand)
