@@ -1,3 +1,14 @@
+
+### npm install --save react-router-dom axios sass zustand classnames recharts
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation)
+
+- [zustand :state Management solution](https://github.com/pmndrs/zustand)
+
+- [ Debounce Function ](https://davidwalsh.name/javascript-debounce-function)
+
+- SASS
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
